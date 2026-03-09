@@ -37,15 +37,6 @@ I like building things that combine **technical depth**, **useful design**, and 
 
 ---
 
-## ⚡ Current Focus
-
-- Studying for the **AWS AI Practitioner**
-- Building stronger **AI + cloud** projects
-- Improving my **backend engineering** skills
-- Growing my portfolio for **software engineering internships**
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
