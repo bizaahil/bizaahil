@@ -42,13 +42,20 @@ I like building things that combine **technical depth**, **useful design**, and 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" /><br/>
+Java • Python • C • JavaScript • TypeScript • HTML • CSS
+
+<br/>
 
 ### Frameworks / Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,spring,git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,spring,git,github,vscode,postman,docker" /><br/>
+React • Node.js • FastAPI • Spring • Git • GitHub • VS Code • Postman • Docker
+
+<br/>
 
 ### Cloud / Database
-<img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,mongodb" /><br/>
+AWS • MySQL • PostgreSQL • MongoDB
 
 </div>
 
