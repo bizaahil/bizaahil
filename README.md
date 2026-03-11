@@ -78,7 +78,7 @@ AWS • MySQL • PostgreSQL • MongoDB
 
 ## 🎯 What I’m Building Toward
 
-I’m working toward becoming a stronger **software engineer** with experience in:
+I’m working toward becoming a stronger **software/ai engineer** with experience in:
 
 - scalable backend systems  
 - intelligent AI integrations  
